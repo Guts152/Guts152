@@ -1,6 +1,7 @@
 [EN](README.md) | [简中](README_zh-CN.md)
 <h1 align="center">Hi 👋, I'm Xiaochen</h1>
 <h3 align="center">A passionate developer from China</h3>
+<img align="right" alt="Avatar" width="400" src="IMG_1631.PNG">
 
 - 🌱 I’m currently learning **Unreal Engine 5**
 
