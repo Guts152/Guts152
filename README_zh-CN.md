@@ -1,6 +1,7 @@
 [EN](README.md) | [简中](README_zh-CN.md)
 <h1 align="center">Hi 👋, 我是小尘</h1>
 <h3 align="center">24岁是学生</h3>
+<img align="right" alt="Avatar" width="400" src="IMG_1631.PNG">
 
 - 🌱 正在学习 **虚幻5**
 
